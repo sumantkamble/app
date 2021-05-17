@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.umzugsauktion.ApplicationTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-05-16T23:10:40" hostname="SK" time="0.107">
+  <properties/>
+  <testcase name="Valid User Inputs :: Result Size" classname="de.umzugsauktion.ApplicationTest" time="0.078"/>
+  <testcase name="Invalid Input Number2 :: Failed Test" classname="de.umzugsauktion.ApplicationTest" time="0.006"/>
+  <testcase name="Valid User Inputs :: Valid Result" classname="de.umzugsauktion.ApplicationTest" time="0.007"/>
+  <testcase name="Invalid Input Number1 :: Failed Test" classname="de.umzugsauktion.ApplicationTest" time="0.003"/>
+  <testcase name="Same Input Number2 :: Failed Test" classname="de.umzugsauktion.ApplicationTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+de/umzugsauktion/ApplicationTest.java
+ de.umzugsauktion.ApplicationTest
