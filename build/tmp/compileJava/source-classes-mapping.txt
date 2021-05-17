@@ -1,4 +1,0 @@
-de/umzugsauktion/Application.java
- de.umzugsauktion.Application
-de/umzugsauktion/NumberConverter.java
- de.umzugsauktion.NumberConverter
